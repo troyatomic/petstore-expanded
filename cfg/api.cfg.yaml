@@ -4,5 +4,5 @@ generate:
   embedded-spec: true
 output: ../api/api.gen.go
 additional-imports:
-  - package: 	petstore-expanded.com/api/models
+  - package: petstore-expanded.com/api/models
     alias: .
