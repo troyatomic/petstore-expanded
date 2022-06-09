@@ -13,7 +13,7 @@ import (
 	"path"
 	"strings"
 
-	. "petstore-expanded.com/api/models"
+	. "petstore-expanded.com/api/models" // have to add this manually
 
 	"github.com/deepmap/oapi-codegen/pkg/runtime"
 	"github.com/getkin/kin-openapi/openapi3"
